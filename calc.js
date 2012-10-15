@@ -4,3 +4,7 @@ function inputNo(n){
 	var newNo = nowNo + n;
 	$("#no").val(newNo);
 }
+
+function noClear(){
+	$("#no").val('');
+}
