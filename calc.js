@@ -8,3 +8,7 @@ function inputNo(n){
 function noClear(){
 	$("#no").val('');
 }
+
+function equal(){
+	$("#no").val($("#stock").val( ));
+}
