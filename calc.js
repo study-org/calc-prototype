@@ -1,1 +1,6 @@
-//JavaScriptファイルinputNo(n){	$(#no).val = $(#no).val + n;}
+//JavaScriptファイル
+function inputNo(n){
+	var nowNo = $("#no").val();
+	var newNo = nowNo + n;
+	$("#no").val(newNo);
+}
