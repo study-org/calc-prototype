@@ -1,1 +1,1 @@
-//JavaScriptファイル
+//JavaScriptファイルinputNo(n){	$(#no).val = $(#no).val + n;}
